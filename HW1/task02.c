@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	printf( "Lets\n"
+	printf( "Let's\n"
 			"   go\n"
 			"      to walk\n");
 	return 0;
