@@ -5,7 +5,7 @@ int main(void)
 {
 	printf( "Lets\n"
 			"   go\n"
-			"      to wolk\n");
+			"      to walk\n");
 	return 0;
 }
 
